@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "role": "INTERN",
+      "organisation": "Learn and Build",
+      "startDate": "June, 2023",
+      "endDate": "July, 2023",
+      "location": "Jaipur, Rajasthan",
+      "experiences": [
+        "Created a responsive website using React.js.",
+        "Worked with skilled people."
+      ],
+      "imageSrc": "company/company.png"
+    }
+   
+  ]

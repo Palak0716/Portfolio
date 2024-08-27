@@ -1,0 +1,27 @@
+[
+    {
+      "key": 1,
+      "title": " VIDEO CONFERENCING WEB APPLICATION",
+      "imageSrc": "projects/project1.jpg",
+      "description": " Created by MERN Stack.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Palak0716/V_Room.git"
+    },
+    {
+      "key": 2,
+      "title": "TRAVEL AGENCY WEBSITE",
+      "imageSrc": "projects/project3.jpg",
+      "description": "Created a responsive website using React.js.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Palak0716/React-responsive-website-TRAVELO-.git"
+    },
+    {
+      "key": 3,
+      "title": "PHOTOPIX WEBSITE",
+      "imageSrc": "projects/project2.jpg",
+      "description": " Applied JavaScript, CSS, and HTML to build the website.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Palak0716/StaticWebsite.git"
+    }
+    
+  ]
