@@ -1,9 +1,22 @@
 [
+  {
+    "id": 1,
+    "role": "Miamin Systems Inc. | Associate Software Developer (INTERNSHIP)",
+    "organisation": "Miamin Systems Inc.",
+    "startDate": "August, 2024 - ",
+    "endDate": "Present",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "experiences": [
+      "Created a multiple websites",
+      "Worked with skilled people."
+    ],
+    "imageSrc": "company/company(2).png"
+  },
     {
       "id": 1,
-      "role": "INTERN",
+      "role": "Learn and Build | INTERN",
       "organisation": "Learn and Build",
-      "startDate": "June, 2023",
+      "startDate": "June, 2023 - ",
       "endDate": "July, 2023",
       "location": "Jaipur, Rajasthan",
       "experiences": [

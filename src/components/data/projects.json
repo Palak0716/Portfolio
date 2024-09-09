@@ -1,6 +1,14 @@
 [
+  {
+    "key": 1,
+    "title": " FOOD DELIVERY WEB APPLICATION",
+    "imageSrc": "projects/project4.jpg",
+    "description": " Created by MERN Stack.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Palak0716/Food_Del.git"
+  },
     {
-      "key": 1,
+      "key": 2,
       "title": " VIDEO CONFERENCING WEB APPLICATION",
       "imageSrc": "projects/project1.jpg",
       "description": " Created by MERN Stack.",
@@ -8,7 +16,7 @@
       "source": "https://github.com/Palak0716/V_Room.git"
     },
     {
-      "key": 2,
+      "key": 3,
       "title": "TRAVEL AGENCY WEBSITE",
       "imageSrc": "projects/project3.jpg",
       "description": "Created a responsive website using React.js.",
@@ -16,7 +24,7 @@
       "source": "https://github.com/Palak0716/React-responsive-website-TRAVELO-.git"
     },
     {
-      "key": 3,
+      "key": 4,
       "title": "PHOTOPIX WEBSITE",
       "imageSrc": "projects/project2.jpg",
       "description": " Applied JavaScript, CSS, and HTML to build the website.",
